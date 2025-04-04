@@ -1,0 +1,16 @@
+{
+  "1743786537466": {
+    "originalName": "iconSrc.png",
+    "fileName": "1743786537466.png",
+    "size": 10142,
+    "url": "${appResourceUrl}/images/widget_5/1743786537466.png",
+    "created": 1743786537466,
+    "resourcesPrefix": "images/widget_5",
+    "referredIds": [],
+    "originId": "1743786537466",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 256,
+    "originalHeight": 256
+  }
+}
